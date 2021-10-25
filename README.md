@@ -1,8 +1,13 @@
 <h2 id="1-the-concept-of-software-quality-quality-assurance-qa-quality-control-qc-and-testing"> The concept of software quality: Quality Assurance, Quality Control and Testing</h2>
-<img class="aligncenter size-full wp-image-2762 lazy-loaded" src="https://content.altexsoft.com/media/2016/10/qaqc-and-testing.png" data-lazy-type="image" alt="" width="1028" height="611" style="display: block;">
+
+<h3 align="center">QA, QC and Testing in the software development process</em></h3>
+<p align="center">
+<img width="350" height="380" src="https://user-images.githubusercontent.com/88934779/138722323-4a3cafb7-1d1a-4d6a-b3b0-3d1618ee08fe.png">
+</p>
 
 <h3 align="center"><em>The concepts of Quality Assurance, Quality Control, and Testing compared</em></h3> <img class="aligncenter size-full wp-image-2763 lazy-loaded" src="https://content.altexsoft.com/media/2016/10/qa-qc-and-testing-differences.png" data-lazy-type="image" alt="QA, QC and Testing differences" width="1341" height="930" style="display: block;">
-<h3 align="center">Stages of Software Testing</em></h3>
+
+ <h3 align="center">Stages of Software Testing</em></h3>
 
 ![Stages of Software Testing](https://user-images.githubusercontent.com/88934779/138720524-3e746cae-9db8-4f4a-a906-e31c5224abc7.png)
 
