@@ -1,4 +1,4 @@
-<h2 id="1-the-concept-of-software-quality-quality-assurance-qa-quality-control-qc-and-testing"> The concept of software quality: Quality Assurance, Quality Control and Testing</h2>
+
 
 <h3 align="center">QA, QC and Testing in the software development process</em></h3>
 <p align="center">
